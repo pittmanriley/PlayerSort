@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pittmanriley
+- 👀 I’m interested in software engineering and any outdoor activity!
+- 🌱 I’m currently learning about computer organization and systems. 
+- 💞️ I’m looking to collaborate on a new app or any project that can benefit someone!
+- 📫 How to reach me: rileywp@stanford.edu
