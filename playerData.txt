@@ -1,0 +1,15 @@
+Riley Pittman, 3.63, 74, 22, 48.2, 17
+Quinn Woodhead, 3.6, 66, 39, 45, 30
+Tyler Abramson, 3.43, 74, 63, 52.7, 23
+Spencer Nelson, 3.91, 77, 17 , 42, 15
+AJ Rossman, 3.67, 77, 43, 46.3, 26
+Beck Jurasias, 3.89, 78, 27, 56.8, 12
+Ethan Parrish, 3.57, 75, 26, 76.7, 24
+Troy Gleason, 3.82, 79, 12, 65.4, 15
+Parker Killion, 3.35, 75, 24, 62, 28
+Walker Seymour, 3.64, 75, 21, 58.3, 27
+Andrew Churukian, 3.34, 75, 36, 48.5, 32
+Ike Love, 3.48, 79, 11, 59.3, 8
+Soren Jensen, 3.64, 74, 27, 47.5, 36
+Jackson Painter, 3.45, 75, 21, 42, 27
+Larsen Weigle, 3.78, 75, 34, 67.8, 32
